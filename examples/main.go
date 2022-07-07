@@ -1,5 +1,6 @@
 package main
 
+/*
 import (
 	"context"
 	"flag"
@@ -402,3 +403,4 @@ func errorHandle(err error) error {
 
 	return err
 }
+*/
